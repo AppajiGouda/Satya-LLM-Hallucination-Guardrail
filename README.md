@@ -22,7 +22,7 @@ To test the pipeline, I designed a comparative hypothesis: *"LLMs exhibit severe
 I tested the system using the recent 2024 transition to the Bharatiya Nyaya Sanhita (BNS) as a temporal hallucination trap.
 
 ### 🏆 Results & Metrics
-![Results](results_gap.png) *(Note: Ensure this screenshot is uploaded to your repo!)*
+![Results](results_gap.png)
 
 **Experiment Output Log:**
 ```text
