@@ -1,6 +1,6 @@
 # Project Satya: Neuro-Symbolic Hallucination Detection for LLMs
 
-[![Open In Colab](https://colab.research.google.com/drive/1DGKrMxUo76z5zyNr4dK5hZIdGc26NYMz?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DGKrMxUo76z5zyNr4dK5hZIdGc26NYMz?usp=sharing)
 
 ## 🎯 Overview
 Large Language Models (LLMs) inherently suffer from hallucinations due to their probabilistic nature, especially when queried on low-resource or geographically specific domains. **Project Satya** is an active "Uncertainty Gate" and firewall designed to mathematically detect, intercept, and ground factual inconsistencies before they reach the user.
